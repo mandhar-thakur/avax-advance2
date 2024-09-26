@@ -104,7 +104,3 @@ Should you encounter any problems, consult the README file or execute the releva
 ## License
 
 This project is distributed under the MIT License. For more details, refer to the [LICENSE](LICENSE) file.
-
----
-
-*Feel free to adjust this README further to better match the specific requirements and details of your project.*
